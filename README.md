@@ -5,6 +5,6 @@
 <h3>(2️⃣)🇨‌🇸‌🇸‌ -- 🇨‌🇦‌🇸‌🇨‌🇦‌🇩‌🇮‌🇦‌ 🇸‌🇹‌🇾‌🇪‌🇱‌ 🇸‌🇭‌🇪‌🇪‌🇹‌..</h3> 
 <h2>🇮‌🇫‌ 🇾‌🇴‌🇺‌ 🇮‌🇳‌🇹‌🇪‌🇷‌🇪‌🇸‌🇹‌ 🇹‌🇴‌ 🇱‌🇪‌🇦‌🇷‌🇳‌🇮‌🇳‌🇬‌ 🇹‌🇭‌🇴‌🇸‌🇪‌ 🇹‌🇭‌🇮‌🇳‌🇬‌🇸‌ 🇦‌🇳‌🇩‌ 🇧‌🇺‌🇮‌🇱‌🇩‌ 🇸‌🇹‌🇦‌🇫‌🇸‌ 🇱‌🇮‌🇰‌🇪‌ 🇹‌🇭‌🇦‌🇹‌ ... 🇸‌🇴‌ 🇵‌🇱‌🇪‌🇦‌🇸‌🇪‌ 🇻‌🇮‌🇸‌🇮‌🇹‌ 🇹‌🇭‌🇪‌🇸‌🇪‌ 🇱‌🇮‌🇳‌🇰‌🇸‌ ....</h2>
 
-<img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/offer%20box.png"  width="1000" height="700"/>
+<img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/offer%20box.png"  width="1000" height="400"/>
 
 <h1>Thanks for visited this repositorie <img src="https://cdn-icons-png.flaticon.com/128/7626/7626740.png" width="60" height="58" /></h1>
